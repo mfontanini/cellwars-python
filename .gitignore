@@ -1,0 +1,4 @@
+cellwars.egg-info
+dist
+*.pyc
+build
